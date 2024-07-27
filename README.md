@@ -1,5 +1,5 @@
 # University_Website
-University_Website Using html,css and js
+University_Website Using HTML,CSS and JS.
 
 College University Website is a dynamic, multi-page application crafted using HTML, CSS, JavaScript,
 and Bootstrap technologies. It serves as an interactive platform offering comprehensive details about
